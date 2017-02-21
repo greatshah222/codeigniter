@@ -5,7 +5,7 @@
 <table class="table">
 	<thead>
 		<tr>
-			<td>Serial Number</td>
+			<td>Serial Num</td>
 			<td>Article Title</td>
             <td>Published Date</td>
 

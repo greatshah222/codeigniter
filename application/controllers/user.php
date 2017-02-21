@@ -1,5 +1,7 @@
 <?php
-class User extends MY_Controller{
+
+/*hello hello hello*/
+class l extends MY_Controller{
 	public function index()
 	{
 		$this->load->helper('form');
